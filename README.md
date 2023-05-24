@@ -34,7 +34,7 @@ href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://ww
 
 
 <img  align="center" width="400"  src="https://www.zupimages.net/up/23/21/ea6l.gif" >
-<h10 align="right">                                                           Collaborateurs: 
+<p align="right"> Collaborateurs: 
 - (https://github.com/julienBr)
 - (https://github.com/Farnights)
 - (https://github.com/0day13) </h10>
