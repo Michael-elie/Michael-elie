@@ -1,5 +1,5 @@
 <h1 align="center">Bienvenue Public 👋, Voici Michaël !</h1>
-<h3 align="center">Jeune Développeur / modeleur 3D, passionné par le cinéma et le jeux vidéo.</h3>
+<h3 align="center">Jeune Développeur / modeleur 3D, passionné par le cinéma 🎬 et le jeux vidéo 🎮.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michael-elie&label=Profile%20views&color=0e75b6&style=flat" alt="michael-elie" /> </p>
 
