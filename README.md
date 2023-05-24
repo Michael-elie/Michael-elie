@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michael-elie&label=Profile%20views&color=0e75b6&style=flat" alt="michael-elie" /> </p>
 
 
-<img align="right"   src="[https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif](https://th.bing.com/th/id/R.83c2ab3bc3b966aa0ab556fa71036544?rik=WjrUnOHBlcWNFg&riu=http%3a%2f%2fwww.pauloromano.com.br%2fassets%2fimages%2fprogrammer3.gif&ehk=9PxAJkDKF22X6nlg9JkwerFcFmfF6NbZqlYU%2bpjTK0s%3d&risl=&pid=ImgRaw&r=0)" >
+<img align="right"  width="400" src="https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif" >
 
 - 🌱 Actuellement en Formation au Greta : **Réalisateur et développeur d'applications 3D en temps réel**
 
@@ -21,7 +21,7 @@
 <a href="https://www.linkedin.com/in/michael-elie-334177271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a> </p>
 
 
-
+<img align="center"   src="https://raw.githubusercontent.com/julienBr/julienBr/main/img/unity.png" >
 
 <h3 align="left">Langages & Logiciels:</h3>
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a
@@ -32,3 +32,4 @@ href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://ww
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michael-elie&show_icons=true&locale=en" alt="michael-elie" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michael-elie&" alt="michael-elie" /></p>
+
