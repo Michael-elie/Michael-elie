@@ -21,7 +21,7 @@
 <a href="https://www.linkedin.com/in/michael-elie-334177271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a> </p>
 
 
-<img align="center"   src="https://raw.githubusercontent.com/julienBr/julienBr/main/img/unity.png" >
+
 
 <h3 align="left">Langages & Logiciels:</h3>
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a
