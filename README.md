@@ -2,7 +2,7 @@
 <h1 align="center">Bienvenue Public 👋, Voici Michaël !</h1>
 <h3 align="center">Jeune Développeur / modeleur 3D, passionné par le cinéma 🎬 et le jeux vidéo 🎮.</h3>
 
-<img align="right"  width="40" src="https://i.pinimg.com/originals/d8/5d/f0/d85df08df1212c0f8b219e779c5ebc46.gif" >
+<img align="right"   src="https://i.pinimg.com/originals/d8/5d/f0/d85df08df1212c0f8b219e779c5ebc46.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michael-elie&label=Profile%20views&color=0e75b6&style=flat" alt="michael-elie" /> </p>
 
 - 🌱 Actuellement en Formation au Greta en tant que **Réalisateur et développeur d'applications 3D en temps réel**
