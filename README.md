@@ -34,7 +34,7 @@ href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://ww
 <img  align="center" width="500"  src="https://www.zupimages.net/up/23/21/ea6l.gif" > <img  align="right" width="300"  src="https://www.zupimages.net/up/23/21/oitk.jpg" >
 <img  align="left" width="300" src="https://www.zupimages.net/up/23/21/mwfo.jpg" >
 
-<p align="right"> Collaborateurs: 
+Collaborateurs: 
 - (https://github.com/julienBr)
 - (https://github.com/Farnights)
 - (https://github.com/0day13) </h10>
@@ -42,7 +42,5 @@ href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://ww
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=michael-elie&show_icons=true&locale=en" alt="michael-elie" /></p>
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michael-elie&" alt="michael-elie" /></p>
 
