@@ -8,7 +8,7 @@
 
 <img align="right"  width="400" src="https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif" >
 
-- 🌱 Actuellement en Formation au Greta **Réalisateur et développeur d'applications 3D en temps réel**
+- 🌱 Actuellement en Formation au Greta : **Réalisateur et développeur d'applications 3D en temps réel**
 
 - 👨‍💻 Mes projets: [https://michael-elie.itch.io/](https://michael-elie.itch.io/)
 
