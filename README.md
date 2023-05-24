@@ -34,10 +34,10 @@ href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://ww
 
 
 <img  align="center" width="400"  src="https://www.zupimages.net/up/23/21/ea6l.gif" >
-<h3 align="right"> Collaborateurs: 
+<h10 align="right"> Collaborateurs: 
 - (https://github.com/julienBr)
 - (https://github.com/Farnights)
-- (https://github.com/0day13) </h3>
+- (https://github.com/0day13) </h10>
 
 
 <img  align="center" width="400"  src="https://www.zupimages.net/up/23/21/oitk.jpg" >
