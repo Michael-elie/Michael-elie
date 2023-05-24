@@ -16,6 +16,8 @@
 
 <h3 align="left">Langages & Logiciels:</h3>
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+width="40" height="40"/> </a> <a href="[https://unity.com/](https://www.blackmagicdesign.com/fr/products/davinciresolve/)" target="_blank" rel="noreferrer"> <img src="[https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg](https://www.freelancevideocollective.com/wp-content/uploads/2020/01/Davinci-Resolve.jpg)" alt="davinci" width="40" height="40"/> </a> </p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michael-elie&show_icons=true&locale=en" alt="michael-elie" /></p>
 
