@@ -5,7 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michael-elie&label=Profile%20views&color=0e75b6&style=flat" alt="michael-elie" /> </p>
 
-<img align="right"  width="400" src="https://i.pinimg.com/originals/d8/5d/f0/d85df08df1212c0f8b219e779c5ebc46.gif" >
+<img align="right"  width="400" src="https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif" >
+<img align="center"   src="https://raw.githubusercontent.com/julienBr/julienBr/main/img/unity.png" >
 - 🌱 Actuellement en Formation au Greta :**Réalisateur et développeur d'applications 3D en temps réel**
 
 - 👨‍💻 Mes projets: [https://michael-elie.itch.io/](https://michael-elie.itch.io/)
