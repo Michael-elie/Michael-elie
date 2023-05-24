@@ -21,7 +21,7 @@
 <a href="https://www.linkedin.com/in/michael-elie-334177271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a> </p>
 
 
-<h3 align="left">Langages & Logiciels:</h3>
+<h3 align="left">Langages & Logiciels 🛠️ :</h3>
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a
 href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a
 href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
@@ -32,12 +32,13 @@ href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://ww
 <h4 align="center"> Projet de Fin d'année de formation, "I am The Puzzle est un jeu d'énigme en Réalité Virtuelle où le joueur incarne un robot fraichement créé et doit à travers plusieurs épreuves assimiler les sens et émotions de l'homme.</h3>
 
 
-<img  align="center" width="400"  src="https://www.zupimages.net/up/23/21/ea6l.gif" >
 
-Collaborateurs: 
+<img  align="center" width="400"  src="https://www.zupimages.net/up/23/21/ea6l.gif" >
+<h3 align="right"> Collaborateurs: 
 - (https://github.com/julienBr)
 - (https://github.com/Farnights)
-- (https://github.com/0day13)
+- (https://github.com/0day13) </h3>
+
 
 <img  align="center" width="400"  src="https://www.zupimages.net/up/23/21/oitk.jpg" >
 
