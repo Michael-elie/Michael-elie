@@ -31,9 +31,9 @@ href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://ww
 <h3 align="center"> Travaille actuellement sur " I am The Puzlle ". </h3>
 <h4 align="center"> Projet de Fin d'année de formation, "I am The Puzzle est un jeu d'énigme en Réalité Virtuelle où le joueur incarne un robot fraichement créé et doit à travers plusieurs épreuves assimiler les sens et émotions de l'homme.</h3>
 
-<img  align="center" width="400"  src="https://www.zupimages.net/up/23/21/ea6l.gif" >
-<img  align="right" width="400"  src="https://www.zupimages.net/up/23/21/oitk.jpg" >
-<img  align="left" width="400" src="https://www.zupimages.net/up/23/21/mwfo.jpg" >
+<img  align="center" width="500"  src="https://www.zupimages.net/up/23/21/ea6l.gif" >
+<img  align="right" width="300"  src="https://www.zupimages.net/up/23/21/oitk.jpg" >
+<img  align="left" width="300" src="https://www.zupimages.net/up/23/21/mwfo.jpg" >
 
 <p align="center"> Collaborateurs: 
 - (https://github.com/julienBr)
@@ -42,7 +42,7 @@ href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://ww
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michael-elie&show_icons=true&locale=en" alt="michael-elie" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=michael-elie&show_icons=true&locale=en" alt="michael-elie" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michael-elie&" alt="michael-elie" /></p>
