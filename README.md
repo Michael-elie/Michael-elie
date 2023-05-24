@@ -28,7 +28,7 @@ href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://ww
 <p align="left"> <img src="https://images.fmctraining.com/images/davinci-logo.png"  width="40" height="40"/> </a> </p>
 
 
-<h3 align="center"> Travaille actuellement sur " I am The Puzlle ". </h3>
+<h3 align="center"> Travaille actuellement sur " I am The Puzzle ". </h3>
 <h4 align="center"> Projet de Fin d'année de formation, "I am The Puzzle est un jeu d'énigme en Réalité Virtuelle où le joueur incarne un robot fraichement créé et doit à travers plusieurs épreuves assimiler les sens et émotions de l'homme.</h3>
 
 <img   align="center" width="400"  src="https://www.zupimages.net/up/23/21/ea6l.gif" > <img align="center"   width="400"  src="https://www.zupimages.net/up/23/21/oitk.jpg" > <img   align="center" width="400" src="https://www.zupimages.net/up/23/21/mwfo.jpg"> <img  align="center" width="400" src="https://www.zupimages.net/up/23/21/60tk.jpg" >
