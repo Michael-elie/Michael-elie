@@ -11,13 +11,12 @@
 
 <h3 align="left">Où suis-je ?:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/michael-elie-334177271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/michael-elie-334177271/" height="30" width="40" /></a>
-</p>
+<a href="https://michael-elie.itch.io/" target="blank"><img align="center" src="https://cdn.solo.to/images/link/itch.io.svg" height="30" width="40" /></a> </p>
+<a href="https://michael-elie.artstation.com/" target="blank"><img align="center" src="https://cdn.solo.to/images/link/artstation.svg"  height="30" width="40" /></a> </p>
+<a href="https://www.linkedin.com/in/michael-elie-334177271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a> </p>
 
 <h3 align="left">Langages & Logiciels:</h3>
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-width="40" height="40"/> </a> <a href="[https://unity.com/](https://www.blackmagicdesign.com/fr/products/davinciresolve/)" target="_blank" rel="noreferrer"> <img src="[https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg](https://www.freelancevideocollective.com/wp-content/uploads/2020/01/Davinci-Resolve.jpg)" alt="davinci" width="40" height="40"/> </a> </p>
-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michael-elie&show_icons=true&locale=en" alt="michael-elie" /></p>
 
