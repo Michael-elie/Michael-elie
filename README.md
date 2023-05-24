@@ -41,8 +41,12 @@ href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://ww
 <img align="right"   src="https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif" >
 
 
+
+------------------------------------------------------------------------------------------------------------
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michael-elie&show_icons=true&locale=en" alt="michael-elie" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michael-elie&" alt="michael-elie" /></p>
+
 
