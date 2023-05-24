@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michael-elie&label=Profile%20views&color=0e75b6&style=flat" alt="michael-elie" /> </p>
 
 
-<img align="right"  width="400" src="https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif" >
+<img align="right"  width="400" src="[https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)" >
 
 - 🌱 Actuellement en Formation au Greta : **Réalisateur et développeur d'applications 3D en temps réel**
 
