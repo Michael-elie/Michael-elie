@@ -1,4 +1,4 @@
-[![MasterHead] ( https://th.bing.com/th/id/OIP.mowtypg6JVqPZEXl8-XDbwHaCt?pid=ImgDet&rs=1)](https://solo.to/michael-elie)
+[![MasterHead](https://th.bing.com/th/id/OIP.mowtypg6JVqPZEXl8-XDbwHaCt?pid=ImgDet&rs=1)](https://solo.to/michael-elie)
 <h1 align="center">Bienvenue Public 👋, Voici Michaël !</h1>
 <h3 align="center">Jeune Développeur / modeleur 3D, passionné par le cinéma 🎬 et le jeux vidéo 🎮.</h3>
 
@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michael-elie&label=Profile%20views&color=0e75b6&style=flat" alt="michael-elie" /> </p>
 
 <img align="right"  width="400" src="https://i.pinimg.com/originals/d8/5d/f0/d85df08df1212c0f8b219e779c5ebc46.gif" >
-- 🌱 Actuellement en Formation au Greta : **Réalisateur et développeur d'applications 3D en temps réel**
+- 🌱 Actuellement en Formation au Greta :**Réalisateur et développeur d'applications 3D en temps réel**
 
 - 👨‍💻 Mes projets: [https://michael-elie.itch.io/](https://michael-elie.itch.io/)
 
