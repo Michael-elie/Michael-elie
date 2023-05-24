@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michael-elie&label=Profile%20views&color=0e75b6&style=flat" alt="michael-elie" /> </p>
 
-- 🌱 Actuellement en Formation au Greta en tant que **Réalisateur et développeur d'applications 3D en temps réel**
+- 🌱 Actuellement en Formation au Greta **Réalisateur et développeur d'applications 3D en temps réel**
 
 - 👨‍💻 Mes projets [https://michael-elie.itch.io/](https://michael-elie.itch.io/)
 
@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/michael-elie-334177271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/michael-elie-334177271/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/michael elie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael elie" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
