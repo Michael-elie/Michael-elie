@@ -1,12 +1,12 @@
-[![MasterHead](https://th.bing.com/th/id/OIP.mowtypg6JVqPZEXl8-XDbwHaCt?pid=ImgDet&rs=1)](https://solo.to/michael-elie)
+[![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)](https://solo.to/michael-elie)
 <h1 align="center">Bienvenue Public 👋, Voici Michaël !</h1>
 <h3 align="center">Jeune Développeur / modeleur 3D, passionné par le cinéma 🎬 et le jeux vidéo 🎮.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michael-elie&label=Profile%20views&color=0e75b6&style=flat" alt="michael-elie" /> </p>
 
+
 <img align="right"  width="400" src="https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif" >
-<img align="center"   src="https://raw.githubusercontent.com/julienBr/julienBr/main/img/unity.png" >
 - 🌱 Actuellement en Formation au Greta :**Réalisateur et développeur d'applications 3D en temps réel**
 
 - 👨‍💻 Mes projets: [https://michael-elie.itch.io/](https://michael-elie.itch.io/)
@@ -18,6 +18,9 @@
 <a href="https://michael-elie.itch.io/" target="blank"><img align="center" src="https://cdn.solo.to/images/link/itch.io.svg" height="30" width="40" /></a> </p>
 <a href="https://michael-elie.artstation.com/" target="blank"><img align="center" src="https://cdn.solo.to/images/link/artstation.svg"  height="30" width="40" /></a> </p>
 <a href="https://www.linkedin.com/in/michael-elie-334177271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a> </p>
+
+
+<img align="center"   src="https://raw.githubusercontent.com/julienBr/julienBr/main/img/unity.png" >
 
 <h3 align="left">Langages & Logiciels:</h3>
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a
