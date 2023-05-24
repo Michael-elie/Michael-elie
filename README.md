@@ -33,16 +33,15 @@ href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://ww
 
 
 
-<p <img  align="center" width="400"  src="https://www.zupimages.net/up/23/21/ea6l.gif" >
+
 <p align="right"> Collaborateurs: 
 - (https://github.com/julienBr)
 - (https://github.com/Farnights)
 - (https://github.com/0day13) </h10>
 
 
-
+<img  align="center" width="400"  src="https://www.zupimages.net/up/23/21/ea6l.gif" >
 <img  align="center" width="400"  src="https://www.zupimages.net/up/23/21/oitk.jpg" >
-
 <img  align="center" width="400" src="https://www.zupimages.net/up/23/21/mwfo.jpg" >
 
 
