@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)](https://solo.to/michael-elie)
+[![MasterHead](https://hackernoon.com/images/f2px36fy.gif](https://solo.to/michael-elie)
 <h1 align="center">Bienvenue Public 👋, Voici Michaël !</h1>
 <h3 align="center">Jeune Développeur / modeleur 3D, passionné par le cinéma 🎬 et le jeux vidéo 🎮.</h3>
 
