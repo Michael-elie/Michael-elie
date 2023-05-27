@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michael-elie&label=Profile%20views&color=0e75b6&style=flat" alt="michael-elie" /> </p>
 
 
-<img align="right"  width="400" src="https://i.pinimg.com/564x/c0/98/9b/c0989b64eb199f6f069be1719973e1a5.jpg" >
+<img align="right"  width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" >
 
 - 🌱 Actuellement en Formation au Greta : **Réalisateur et développeur d'applications 3D en temps réel**
 
@@ -44,7 +44,7 @@ Collaborateurs:
 .
 
 
-<img align="right"  width="500" src="https://i.pinimg.com/originals/9a/aa/1d/9aaa1d5723b5e20f258db26ccad93d35.gif" >
+<img align="right"  width="450" src="https://i.pinimg.com/originals/9a/aa/1d/9aaa1d5723b5e20f258db26ccad93d35.gif" >
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=michael-elie&show_icons=true&locale=en" alt="michael-elie" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michael-elie&" alt="michael-elie" /></p>
 
