@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michael-elie&label=Profile%20views&color=0e75b6&style=flat" alt="michael-elie" /> </p>
 
 
-<img align="right"  width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" >
+<img align="right"  width="400" src="https://i.pinimg.com/originals/9a/aa/1d/9aaa1d5723b5e20f258db26ccad93d35.gif" >
 
 - 🌱 Actuellement en Formation au Greta : **Réalisateur et développeur d'applications 3D en temps réel**
 
