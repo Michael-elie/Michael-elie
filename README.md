@@ -40,7 +40,11 @@ Collaborateurs:
 - (https://github.com/0day13) </h10>
 
 
-<img align="right"  width="300" src="https://i.pinimg.com/originals/9a/aa/1d/9aaa1d5723b5e20f258db26ccad93d35.gif" >
+
+.
+
+
+<img align="right"  width="500" src="https://i.pinimg.com/originals/9a/aa/1d/9aaa1d5723b5e20f258db26ccad93d35.gif" >
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=michael-elie&show_icons=true&locale=en" alt="michael-elie" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michael-elie&" alt="michael-elie" /></p>
 
