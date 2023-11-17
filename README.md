@@ -27,6 +27,7 @@ href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src=
 href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 <p align="left"> <img src="https://images.fmctraining.com/images/davinci-logo.png"  width="40" height="40"/> </a> </p>
 
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=michael-elie&show_icons=true&locale=en" alt="michael-elie" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michael-elie&" alt="michael-elie" /></p>
 
 
