@@ -8,7 +8,7 @@
 
 <img align="right"  width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" >
 
-- 🌱 Actuellement en Formation au Greta : **Réalisateur et développeur d'applications 3D en temps réel**
+- 🌱 Actuellement étudiant : **Ecole des Nouvelles Images, Avignon**
 
 - 👨‍💻 Mes projets: [https://michael-elie.itch.io/](https://michael-elie.itch.io/)
 
