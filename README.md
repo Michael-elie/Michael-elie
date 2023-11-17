@@ -28,21 +28,6 @@ href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://ww
 <p align="left"> <img src="https://images.fmctraining.com/images/davinci-logo.png"  width="40" height="40"/> </a> </p>
 
 
-<h3 align="center"> Travaille actuellement sur " I am The Puzzle ". </h3>
-<h4 align="center"> Projet de Fin d'année de formation, "I am The Puzzle est un jeu d'énigme en Réalité Virtuelle où le joueur incarne un robot fraichement créé et doit à travers plusieurs épreuves assimiler les sens et émotions de l'homme.</h3>
-
-<img   align="center" width="400"  src="https://www.zupimages.net/up/23/21/ea6l.gif" > <img align="center"   width="400"  src="https://www.zupimages.net/up/23/21/oitk.jpg" > <img   align="center" width="400" src="https://www.zupimages.net/up/23/21/mwfo.jpg"> <img  align="center" width="400" src="https://www.zupimages.net/up/23/21/60tk.jpg" >
-
-
-Collaborateurs: 
-- (https://github.com/julienBr)
-- (https://github.com/Farnights)
-- (https://github.com/0day13) </h10>
-
-
-
-.
-
 
 <img align="right"  width="450" src="https://i.pinimg.com/originals/9a/aa/1d/9aaa1d5723b5e20f258db26ccad93d35.gif" >
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=michael-elie&show_icons=true&locale=en" alt="michael-elie" /></p>
